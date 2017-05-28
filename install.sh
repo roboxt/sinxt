@@ -19,7 +19,7 @@ white "     >>>>             I wanna install it for you                      <<<
 function logo2_SinChi() {
 green "     >>>>            SinChi successfully installed                    <<<<      "
 white "     >>>>            Run this command for launch bot                  <<<<      "
-red   "     >>>>                   ./sinchi-0.sh                             <<<<      "
+red   "     >>>>                   ./sinxt-0.sh                             <<<<      "
 green   "                      ****************************                                  "
 green   "                      ****************************                                   "
 white   "                      ****************************                                   "
@@ -58,7 +58,7 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
 function chmod_SinChi() {
  chmod +x sinchi.sh
  chmod +x tg
- chmod +x sinchi-0.sh
+ chmod +x sinxt-0.sh
  chmod +x on.sh
  chmod +x off.sh
  chmod +x auto.sh
