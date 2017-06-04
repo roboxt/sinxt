@@ -1,4 +1,4 @@
-for entr in sinchi-*.sh ; do
+for entr in sinxt-*.sh ; do
     entry="${entr/.sh/}"
     tmux kill-session -t $entry
     killall -9 entry
