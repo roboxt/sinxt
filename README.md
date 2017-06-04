@@ -3,9 +3,9 @@ A Bot Source For Seen  (New Tg)
 
 # Install - دستور نصب
 <pre>
-git clone https://github.com/SinaXhpm/SinChi && cd SinChi && chmod +x install.sh && ./install.sh
+git clone https://github.com/roboxt/sinxt && cd sinxt && chmod +x install.sh && ./install.sh
 </pre>
- Launch: ./sinchi.sh
+ Launch: ./sinxt.sh
 # Sudo
 Add you userid in to Sudo.lua 
 
@@ -13,7 +13,7 @@ Add you userid in to Sudo.lua
 Tnx To:<br/>
 7aj(Helpgram team)
 <br/>
-Monarch
+vip
 <br/>
 xtbot
 <br/>
